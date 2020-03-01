@@ -1,0 +1,18 @@
+.env
+
+# package directories
+node_modules/
+jspm_packages/
+
+# Serverless directories
+.serverless/
+.dynamodb/
+.webpack/
+.webpack-cache/
+.build/
+.eslintcache
+
+.DS_Store
+
+tmp/
+.repl-history
